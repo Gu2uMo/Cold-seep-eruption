@@ -1,0 +1,100 @@
+ENTRY       M00596            Pathway   Module
+NAME        Dissimilatory sulfate reduction, sulfate => H2S
+DEFINITION  K00958 (K00394+K00395) (K11180+K11181)
+ENTRY       M00176            Pathway   Module
+NAME        Assimilatory sulfate reduction, sulfate => H2S
+DEFINITION  (K00955+K00957,K00956+K00957+K00860) K00390 K00380+K00381
+ENTRY       MyDef1            Pathway   Module
+NAME        Taurine transport
+DEFINITION  K15551+K15552+K10831
+ENTRY       MyDef2            Pathway   Module
+NAME        Taurine_to_sulfite
+DEFINITION  K03119
+ENTRY       MyDef3            Pathway   Module
+NAME        Alkanesulfonate transport
+DEFINITION  K15553+K15554+K15555
+ENTRY       MyDef4            Pathway   Module
+NAME        Alkanesulfonate_to_sulfite
+DEFINITION  K04091+K00299
+ENTRY       MyDef5            Pathway   Module
+NAME        sulfate transport
+DEFINITION  (K02408+K02406,K23163+K02407) K02405
+ENTRY       M00356            Pathway   Module
+NAME        Methanogenesis, methanol => methane
+DEFINITION  K14080+K04480+K14081 K00399+K00401+K00402 (K22480+K22481+K22482,K03388+K03389+K03390,K08264+K08265,K03388+K03389+K03390+K14127+(K14126+K14128,K22516+K00125))
+ENTRY       M00357            Pathway   Module
+NAME        Methanogenesis, acetate => methane
+DEFINITION  ((K00925 K00625),K01895) (K00193+K00197+K00194) (K00577+K00578+K00579+K00580+K00581-K00582-K00583+K00584) (K00399+K00401+K00402) (K22480+K22481+K22482,K03388+K03389+K03390,K08264+K08265,K03388+K03389+K03390+K14127+(K14126+K14128,K22516+K00125))
+ENTRY       M00563            Pathway   Module
+NAME        Methanogenesis, methylamine/dimethylamine/trimethylamine => methane
+DEFINITION  K14082 ((K16177-K16176),(K16179-K16178),(K14084-K14083)) K00399+K00401+K00402 (K22480+K22481+K22482,K03388+K03389+K03390,K08264+K08265,K03388+K03389+K03390+K14127+(K14126+K14128,K22516+K00125))
+ENTRY       M00567            Pathway   Module
+NAME        Methanogenesis, CO2 => methane
+DEFINITION  (K00200+K00201+K00202+K00203-K11261+(K00205,K11260,K00204)) K00672 K01499 (K00319,K13942) K00320 (K00577+K00578+K00579+K00580+K00581-K00582-K00583+K00584) (K00399+K00401+K00402) (K22480+K22481+K22482,K03388+K03389+K03390,K08264+K08265,K03388+K03389+K03390+K14127+(K14126+K14128,K22516+K00125))
+ENTRY       M00174            Pathway   Module
+NAME        Methane oxidation, methanotroph, methane => formaldehyde
+DEFINITION  ((K10944+K10945+K10946),(K16157+K16158+K16159+K16160+K16161+K16162)) ((K14028+K14029),K23995)
+ENTRY       MyDef6            Pathway   Module
+NAME        Part of Denitrification
+DEFINITION  K00368 K15864
+ENTRY       M00595            Pathway   Module
+NAME        Thiosulfate oxidation by SOX complex, thiosulfate => sulfate
+DEFINITION  K17222+K17223+K17224+K17225+K22622+K17226+K17227
+ENTRY       M00345            Pathway   Module
+NAME        Formaldehyde assimilation, ribulose monophosphate pathway
+DEFINITION  (((K08093,K13812) K08094),K13831) (K00850,K16370) K01624
+ENTRY       M00346            Pathway   Module
+NAME        Formaldehyde assimilation, serine pathway
+DEFINITION  K00600 K00830 K00018 K11529 K01689 K01595 K00024 K08692+K14067 K08691
+ENTRY       M00008            Pathway   Module
+NAME        Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate
+DEFINITION  K00036 (K01057,K07404) K01690 K01625
+ENTRY       M00555            Pathway   Module
+NAME        Betaine biosynthesis, choline => betaine
+DEFINITION  (K17755,((K00108,K11440,K00499) (K00130,K14085)))
+ENTRY       MyDef7            Pathway   Module
+NAME        Betaine transport
+DEFINITION  K02002+K02001+K02000
+ENTRY       MyDef9            Pathway   Module
+NAME        Betaine uptake
+DEFINITION  K03671+K00384
+ENTRY       MyDef10            Pathway   Module
+NAME        Betaine transport (single gene)
+DEFINITION  K05020
+ENTRY       MyDef8            Pathway   Module
+NAME        Betaine reductase1
+DEFINITION  K10670
+ENTRY       MyDef11            Pathway   Module
+NAME        Betaine reductase2
+DEFINITION  K21576+K21577
+ENTRY       MyDef12            Pathway   Module
+NAME        Betaine reductase3
+DEFINITION  K21578+K21579
+ENTRY       MyDef13            Pathway   Module
+NAME        serine pathway key gene
+DEFINITION  K00600
+ENTRY       MyDef14            Pathway   Module
+Name        RuMP step 1
+Definition  ((K08093,K13812) K08094),K13831
+ENTRY       MyDef15            Pathway   Module
+Name        ackA_pta
+Definition  K00925 K00625
+ENTRY       MyDef16            Pathway   Module
+Name        ACS
+Definition  K01895
+ENTRY       MyDef17            Pathway   Module
+Name        acdAB
+Definition  K01905+K22224,K24012
+ENTRY       MyDef18            Pathway   Module
+Name        aarC
+Definition  K18118
+ENTRY       MyDef19            Pathway   Module
+Name        cysteine-transporter
+Definition  K16012+K16013
+ENTRY       MyDef20            Pathway   Module
+Name        cysteine-transporter
+Definition  K16012+K16013
+ENTRY       MyDef21            Pathway   Module
+Name        cysteine-degradation 
+Definition  K01760,K14155,K00816
+

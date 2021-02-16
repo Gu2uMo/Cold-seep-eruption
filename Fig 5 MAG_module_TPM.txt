@@ -1,0 +1,320 @@
+module	L15	L30	H15	H30
+Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate 	3812.576002	3920.470381	3693.960744	3606.403683
+Glycolysis, core module involving three-carbon compounds 	2073.199562	2167.265235	2170.572067	2080.053367
+Gluconeogenesis, oxaloacetate => fructose-6P 	2794.820098	2879.216088	2686.779219	2638.865783
+Pentose phosphate pathway (Pentose phosphate cycle) 	1702.090115	1855.200182	1967.474659	1949.34599
+PRPP biosynthesis, ribose 5P => PRPP 	294.6358012	308.9538738	342.9084623	297.9907889
+Pentose phosphate pathway, oxidative phase, glucose 6P => ribulose 5P 	310.8267459	396.7305706	587.1428146	547.3279876
+Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P 	1096.952671	1156.559428	1106.785129	1126.45523
+Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate 	398.2666821	528.2899376	874.3134144	756.1784921
+Citrate cycle (TCA cycle, Krebs cycle) 	4845.922742	4823.69463	4612.468823	4509.367348
+Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate 	985.7463953	985.9403744	1041.242562	989.5768753
+Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate 	3860.176347	3837.754256	3571.226261	3519.790473
+Glyoxylate cycle 	849.2189615	905.5287267	1099.674529	1044.541186
+Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA 	634.8480617	619.7684942	740.3941829	641.0425963
+Glucuronate pathway (uronate pathway) 	948.9353101	948.4730725	843.0734097	820.4770629
+Proline biosynthesis, glutamate => proline 	729.5614343	774.1085474	807.20095	724.1632841
+Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine 	2775.049902	2873.829408	2901.877088	2779.066168
+Methionine biosynthesis, apartate => homoserine => methionine 	2265.799898	2275.141052	2276.693367	2214.751646
+Threonine biosynthesis, aspartate => homoserine => threonine 	1638.647716	1662.381911	1574.688267	1574.090917
+Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine 	1695.311681	1802.791573	1796.713226	1771.725583
+Serine biosynthesis, glycerate-3P => serine 	901.7818644	944.1367339	903.6821599	898.8519648
+Cysteine biosynthesis, serine => cysteine 	718.7515865	722.4481253	645.7890961	634.286328
+Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate 	2390.560022	2376.144804	2107.825102	2005.640802
+Tryptophan biosynthesis, chorismate => tryptophan 	2030.149925	2097.508766	2079.770644	1856.624624
+Phenylalanine biosynthesis, chorismate => phenylpyruvate => phenylalanine 	427.4496167	442.0776215	429.5095039	493.3209253
+Tyrosine biosynthesis, chorismate => HPP => tyrosine 	501.2216008	519.9617169	474.0681621	551.8901257
+Histidine biosynthesis, PRPP => histidine 	3116.667626	3257.579651	3085.753115	2984.692344
+GABA (gamma-Aminobutyrate) shunt 	278.5068211	314.103779	536.62228	505.2117579
+Ornithine biosynthesis, glutamate => ornithine 	1502.273129	1602.343465	1643.137831	1585.865011
+Urea cycle 	1001.37285	1024.007905	924.2733112	938.861573
+Lysine biosynthesis, AAA pathway, 2-oxoglutarate => 2-aminoadipate => lysine 	69.27601141	72.57275574	118.0466815	113.4164691
+Lysine biosynthesis, mediated by LysW, 2-aminoadipate => lysine 	1.817983555	0.378142774	0.078192863	0.064828838
+Ectoine biosynthesis, aspartate => ectoine 	888.7864904	912.1602815	951.8691124	826.090888
+Methionine salvage pathway 	1399.894658	1451.544493	1477.437713	1418.008185
+Methionine degradation 	689.9339138	660.6814963	629.4627262	648.0993556
+Leucine degradation, leucine => acetoacetate + acetyl-CoA 	1994.934409	2139.473776	2904.061727	2616.78602
+Melatonin biosynthesis, animals, tryptophan => serotonin => melatonin 	41.72968185	32.44751465	26.20202078	19.89063033
+Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate 	360.9582442	374.2942537	427.1008251	451.3432954
+Monolignol biosynthesis, phenylalanine/tyrosine => monolignol 	72.63438192	74.40254258	64.02191422	84.86009432
+Tyrosine biosynthesis, chorismate => arogenate => tyrosine 	289.2365324	313.580466	379.7112344	370.7217761
+Catecholamine biosynthesis, tyrosine => dopamine => noradrenaline => adrenaline 	42.02012364	32.83781169	27.9533563	23.81532262
+Tyrosine degradation, tyrosine => homogentisate 	165.1150088	237.3942039	537.0549735	527.5898389
+Histidine degradation, histidine => N-formiminoglutamate => glutamate 	956.7833937	879.6279422	808.3092728	895.1353929
+Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate 	205.5699773	255.3726889	314.7394546	333.7268368
+Creatine pathway 	15.47788503	11.50185728	4.292613341	4.252107459
+Inosine monophosphate biosynthesis, PRPP + glutamine => IMP 	2773.306416	2855.0424	2845.037475	2694.258322
+Adenine ribonucleotide biosynthesis, IMP => ADP,ATP 	1378.017724	1413.269735	1440.256648	1424.263637
+Guanine ribonucleotide biosynthesis IMP => GDP,GTP 	1550.523724	1566.956949	1574.953742	1509.550952
+Uridine monophosphate biosynthesis, glutamine (+ PRPP) => UMP 	2932.482189	2976.675352	2818.833371	2607.392477
+Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP 	749.9388802	743.1469867	702.0460903	715.2700847
+Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP 	2200.143853	2268.588101	2345.094548	2220.560683
+N-glycan precursor biosynthesis 	57.37174462	32.66028529	24.58050438	29.07028886
+O-glycan biosynthesis, mucin type core 	0.101281264	0.118463532	0.051239009	0.036507708
+Glycosaminoglycan biosynthesis, linkage tetrasaccharide 	0.240198318	0.250763263	1.797918015	1.050785308
+Glycosaminoglycan biosynthesis, heparan sulfate backbone 	0	0	0.14938338	0.53217703
+KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type 	1186.557182	1253.398349	1593.672193	1413.421837
+D-Glucuronate degradation, D-glucuronate => pyruvate + D-glyceraldehyde 3P 	275.9196133	342.1008313	482.3543526	497.1643182
+CMP-KDO biosynthesis 	498.225673	550.0522074	665.5605554	595.9788662
+ADP-L-glycero-D-manno-heptose biosynthesis 	401.3282857	514.3661461	743.4145257	637.729657
+GPI-anchor biosynthesis, core oligosaccharide 	33.51883479	23.47880896	15.02652367	9.163872319
+Lactosylceramide biosynthesis 	4.2381803	6.463257273	36.76364242	41.55257376
+N-glycosylation by oligosaccharyltransferase 	16.40316948	10.68453229	13.22632027	12.09276055
+Dermatan sulfate degradation 	59.74020139	57.67887231	116.1623482	106.6020068
+Chondroitin sulfate degradation 	52.83724699	47.65284541	86.91847733	81.11208862
+Heparan sulfate degradation 	73.97857642	99.47446347	242.4505284	228.9011117
+Keratan sulfate degradation 	41.14812679	49.23371824	95.78481883	115.2249128
+Pectin degradation 	33.40940713	40.05379441	75.82128932	103.943306
+Fatty acid biosynthesis, initiation 	1271.122414	1349.591511	1396.965191	1391.696705
+Fatty acid biosynthesis, elongation 	2307.95017	2387.562207	2755.353786	2532.723236
+Fatty acid elongation in mitochondria 	25.59421026	20.19522034	4.36250793	4.045293439
+beta-Oxidation, acyl-CoA synthesis 	839.6247589	772.4570337	775.6096488	721.334219
+beta-Oxidation 	1560.866546	1651.711602	2382.291024	2132.921463
+Ketone body biosynthesis, acetyl-CoA => acetoacetate/3-hydroxybutyrate/acetone 	1093.430854	1036.972787	1166.853261	983.2643746
+Triacylglycerol biosynthesis 	499.3606951	493.8281454	477.4679863	451.0968773
+Phosphatidylcholine (PC) biosynthesis, choline => PC 	47.85061675	42.02784289	9.40935124	20.40517175
+Phosphatidylcholine (PC) biosynthesis, PE => PC 	28.21910815	29.3645181	50.62677854	49.17936567
+Phosphatidylethanolamine (PE) biosynthesis, ethanolamine => PE 	47.39933082	41.12100934	10.60433128	20.83434345
+Phosphatidylethanolamine (PE) biosynthesis, PA => PS => PE 	611.8493038	595.77787	660.8809584	660.2929714
+Ceramide biosynthesis 	26.68758745	27.66027555	19.13295609	13.66359898
+C5 isoprenoid biosynthesis, mevalonate pathway 	1121.479771	1001.915818	941.105914	859.0300596
+C5 isoprenoid biosynthesis, non-mevalonate pathway 	1509.439356	1583.763356	1604.360793	1577.373564
+beta-Carotene biosynthesis, GGAP => beta-carotene 	68.38962376	96.89302786	132.0553863	130.8142921
+Acylglycerol degradation 	231.7759078	232.1439633	237.3875601	185.3298095
+Sphingosine biosynthesis 	98.75533104	116.0725937	171.9731112	151.4847554
+Sphingosine degradation 	108.71302	77.68089945	49.63658066	34.41435129
+Cholesterol biosynthesis, squalene 2,3-epoxide => cholesterol 	13.58889595	15.39500791	30.64863048	30.0812299
+Ergocalciferol biosynthesis, squalene 2,3-epoxide => ergosterol/ergocalciferol 	59.46815716	66.28506157	60.02645591	50.21875006
+Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate 	72.5962044	77.46930699	104.4529385	91.32105199
+Tocopherol/tocotorienol biosynthesis, homogentisate + phytyl/geranylgeranyl-PP => tocopherol/tocotorienol 	47.09091341	45.55302252	50.07168878	53.63073159
+Jasmonic acid biosynthesis 	0.813972173	1.622910771	1.810948484	0.958631389
+Ascorbate biosynthesis, plants, fructose-6P => ascorbate 	164.6835471	150.4677732	125.2201913	155.7742988
+NAD biosynthesis, aspartate => quinolinate => NAD 	1359.408507	1371.856586	1365.531477	1311.88229
+Menaquinone biosynthesis, chorismate (+ polyprenyl-PP) => menaquinol 	507.2708459	539.610469	623.30965	606.8496484
+Ubiquinone biosynthesis, prokaryotes, chorismate (+ polyprenyl-PP) => ubiquinol 	1536.363965	1681.314617	2047.282711	1788.778017
+Glutathione biosynthesis, glutamate => glutathione 	270.1302691	310.9170856	436.9170963	380.4134777
+Pantothenate biosynthesis, valine/L-aspartate => pantothenate 	922.0788224	922.3012342	857.8249507	835.9203078
+Coenzyme A biosynthesis, pantothenate => CoA 	915.2575478	949.9853701	935.5326581	919.775213
+Heme biosynthesis, plants and bacteria, glutamate => heme 	2246.96456	2372.723951	2663.686843	2462.577833
+Cobalamin biosynthesis, cobyrinate a,c-diamide => cobalamin 	1072.660318	1048.989059	1022.70416	949.5574446
+Biotin biosynthesis, pimeloyl-ACP/CoA => biotin 	512.0373582	562.9563932	706.8192906	704.241707
+Pyridoxal-P biosynthesis, erythrose-4P => pyridoxal-P 	501.793796	616.984022	918.0722913	807.3624782
+Riboflavin biosynthesis, plants and bacteria, GTP => riboflavin/FMN/FAD 	916.8906954	964.2155066	886.5963264	912.5130579
+Tetrahydrofolate biosynthesis, GTP => THF 	1645.126709	1796.797769	2135.686549	2050.337303
+Thiamine biosynthesis, prokaryotes, AIR (+ DXP/tyrosine) => TMP/TPP 	343.2486168	330.4909527	300.4594168	324.5201753
+Ubiquinone biosynthesis, eukaryotes, 4-hydroxybenzoate + polyprenyl-PP => ubiquinol 	43.13011834	61.69284875	120.1654485	112.8628308
+Ascorbate biosynthesis, animals, glucose-1P => ascorbate 	544.9780052	575.0947792	589.5580475	608.4071801
+Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4 	0.146545237	0.070120838	0	0.079235247
+Inositol phosphate metabolism, Ins(1,3,4,5)P4 => Ins(1,3,4)P3 => myo-inositol 	327.6807931	350.5593926	407.7191752	356.4970258
+Polyamine biosynthesis, arginine => agmatine => putrescine => spermidine 	313.2381644	307.7257242	314.3182941	337.8820023
+Polyamine biosynthesis, arginine => ornithine => putrescine 	103.6044563	128.7677828	169.256779	150.3136922
+GABA biosynthesis, eukaryotes, putrescine => GABA 	281.6553149	328.4856628	482.0355644	570.1714534
+GABA biosynthesis, prokaryotes, putrescine => GABA 	183.0459714	198.2012098	279.054334	280.9889504
+Flavanone biosynthesis, phenylalanine => naringenin 	0.499537084	1.23474286	1.263442555	0.389702439
+C1-unit interconversion, prokaryotes 	562.2699635	569.9041724	580.6945297	582.9734158
+C1-unit interconversion, eukaryotes 	350.4735354	339.5624651	339.9706978	331.030185
+NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria 	21.77555656	32.60515007	48.03851065	51.40320134
+NADH:quinone oxidoreductase, prokaryotes 	2009.292981	1970.120352	1806.946593	2068.989888
+NAD(P)H:quinone oxidoreductase, chloroplasts and cyanobacteria 	12.5876924	14.83704868	37.51511385	27.49711293
+NADH dehydrogenase (ubiquinone) 1 alpha subcomplex 	24.13387614	32.71579369	43.30182397	36.62413048
+Succinate dehydrogenase, prokaryotes 	491.2272201	522.4673017	641.807548	578.6276976
+Fumarate reductase, prokaryotes 	147.6345456	172.0805833	117.3533048	143.5251052
+Cytochrome bc1 complex respiratory unit 	220.6664772	277.1596111	449.4256926	404.1486594
+Cytochrome bc1 complex 	195.0551367	249.1638152	426.5298996	386.7619477
+Cytochrome bd ubiquinol oxidase 	476.5824092	483.4555097	591.1344194	470.9156844
+Cytochrome c oxidase 	171.2701599	231.7510213	418.1310722	342.4869026
+Cytochrome c oxidase, cbb3-type 	450.3295133	575.120815	680.0022427	619.3991331
+F-type ATPase, prokaryotes and chloroplasts 	2248.851944	2218.601801	1964.76483	1849.537129
+F-type ATPase, eukaryotes 	0.219817855	1.009740072	1.701476699	1.996728217
+V-type ATPase, prokaryotes 	786.3201677	728.2928342	560.5051479	660.7580715
+V-type ATPase, eukaryotes 	2.229498489	3.706103613	11.41498959	12.70343699
+Cytochrome b6f complex 	97.80659719	79.22355375	51.99891773	30.10527213
+Reductive pentose phosphate cycle (Calvin cycle) 	3086.404406	3217.461395	2933.394167	2872.242409
+Reductive pentose phosphate cycle, ribulose-5P => glyceraldehyde-3P 	878.6192832	931.2488717	876.6518619	808.9129543
+Reductive pentose phosphate cycle, glyceraldehyde-3P => ribulose-5P 	2207.785123	2286.212523	2056.742306	2063.329454
+CAM (Crassulacean acid metabolism), dark 	202.0883437	222.6499058	303.8875596	299.8688664
+CAM (Crassulacean acid metabolism), light 	353.6037021	370.2798167	389.3278593	377.9082576
+C4-dicarboxylic acid cycle, phosphoenolpyruvate carboxykinase type 	242.9709286	285.1103097	319.0820324	282.5183026
+C4-dicarboxylic acid cycle, NAD - malic enzyme type 	316.175415	334.9720355	358.4736262	333.131588
+C4-dicarboxylic acid cycle, NADP - malic enzyme type 	413.7610397	456.2007536	539.7651042	512.0072375
+Reductive citrate cycle (Arnon-Buchanan cycle) 	5665.100924	5414.948066	4542.954372	4429.896676
+Methane oxidation, methanotroph, methane => formaldehyde 	7.374009048	6.901731604	45.48035478	40.4701353
+Nitrogen fixation, nitrogen => ammonia 	85.53333928	114.3134417	121.9666129	103.6298323
+Assimilatory sulfate reduction, sulfate => H2S 	816.8748269	877.8152698	1092.760912	1093.458703
+Pyruvate oxidation, pyruvate => acetyl-CoA 	2081.911798	1992.08131	1711.690363	1611.282011
+Semi-phosphorylative Entner-Doudoroff pathway, gluconate => glycerate-3P 	851.3902132	935.1580195	1019.151902	971.7750076
+Non-phosphorylative Entner-Doudoroff pathway, gluconate/galactonate => glycerate 	1188.456683	959.3318087	472.3464499	425.1407978
+Cysteine biosynthesis, homocysteine + serine => cysteine 	113.172206	98.18144457	79.30792033	82.52045854
+Formaldehyde assimilation, xylulose monophosphate pathway 	548.369195	556.3810586	492.8721881	486.7020906
+Formaldehyde assimilation, ribulose monophosphate pathway 	717.0885582	692.37454	548.8999184	551.5731085
+Formaldehyde assimilation, serine pathway 	967.332988	1051.148458	1336.008062	1287.57499
+Methanogenesis, methanol => methane 	3200.461863	2457.485868	1423.101517	1022.102102
+Methanogenesis, acetate => methane 	4347.890024	3528.175081	2311.884245	1906.911643
+Coenzyme M biosynthesis 	68.03995081	59.53228218	51.24389451	55.56367444
+C10-C20 isoprenoid biosynthesis, bacteria 	393.9704022	389.5531987	361.966645	342.7909182
+C10-C20 isoprenoid biosynthesis, archaea 	145.0205716	113.8193907	80.82081956	100.0140123
+C10-C20 isoprenoid biosynthesis, plants 	334.4024812	327.1552472	268.1570131	250.5767269
+C10-C20 isoprenoid biosynthesis, non-plant eukaryotes 	115.8167139	95.05162723	67.12379331	85.5074233
+Ethylene biosynthesis, methionine => ethylene 	308.9422004	320.7242144	302.3072907	296.9182469
+Abscisic acid biosynthesis, beta-carotene => abscisic acid 	18.77105331	25.95775174	30.49510288	33.18740356
+Ethylmalonyl pathway 	1223.646404	1189.434109	1304.160523	1121.947035
+Dicarboxylate-hydroxybutyrate cycle 	3350.096533	3145.619206	2904.764193	2714.682356
+Hydroxypropionate-hydroxybutylate cycle 	1367.741885	1250.486531	1094.133107	989.0997052
+3-Hydroxypropionate bi-cycle 	1774.130368	1822.091332	1881.934917	1840.053529
+Reductive acetyl-CoA pathway (Wood-Ljungdahl pathway) 	1628.307355	1431.388077	1052.189818	975.5693872
+F420 biosynthesis 	40.30509713	35.34550444	25.64126797	33.80215986
+Cytochrome aa3-600 menaquinol oxidase 	0.367251117	0.337117528	0.139102572	0.239360246
+Cytochrome o ubiquinol oxidase 	41.92246201	65.24505841	188.0755881	265.1751452
+Toluene degradation, anaerobic, toluene => benzoyl-CoA 	7.268298144	10.20575576	6.592937789	6.463075009
+Acetyl-CoA pathway, CO2 => acetyl-CoA 	311.8122793	248.6235369	162.3134812	149.5165394
+Leucine biosynthesis, 2-oxoisovalerate => 2-oxoisocaproate 	1059.823894	1152.621033	1239.294005	1165.460406
+Lysine biosynthesis, 2-oxoglutarate => 2-oxoadipate 	38.17744997	34.50593522	24.07999241	28.37197808
+Lysine biosynthesis, acetyl-DAP pathway, aspartate => lysine 	1938.272847	2013.193891	1955.116149	1873.195468
+Lysine biosynthesis, DAP dehydrogenase pathway, aspartate => lysine 	1590.948436	1656.014447	1713.172824	1642.681779
+Lysine biosynthesis, DAP aminotransferase pathway, aspartate => lysine 	1988.774344	2037.920846	2044.604313	1926.146215
+Nitrification, ammonia => nitrite 	122.2514659	101.6115929	58.24822207	45.18318594
+Denitrification, nitrate => nitrogen 	620.7433641	755.6507659	1016.907577	764.7425011
+Dissimilatory nitrate reduction, nitrate => ammonia 	566.8157268	674.513756	843.2766098	717.6619951
+Assimilatory nitrate reduction, nitrate => ammonia 	96.05741239	103.3557908	146.6681714	131.8225888
+Photorespiration 	545.084396	598.3607205	715.3979881	710.280106
+Homoprotocatechuate degradation, homoprotocatechuate => 2-oxohept-3-enedioate 	56.27096503	43.03122145	54.67020701	77.7602083
+Naphthalene degradation, naphthalene => salicylate 	8.902977098	12.2632709	36.84153692	48.95434105
+Isoleucine biosynthesis, pyruvate => 2-oxobutanoate 	720.4958267	778.7457409	834.3223526	807.0265531
+Xylene degradation, xylene => methylbenzoate 	1.322496886	5.582711259	13.62980681	14.42287859
+Toluene degradation, toluene => benzoate 	43.83831029	48.36212571	34.51712259	40.51491639
+Cumate degradation, p-cumate => 2-oxopent-4-enoate + 2-methylpropanoate 	15.74830154	21.55775351	16.51044912	12.28539382
+Benzoate degradation, cyclohexanecarboxylic acid =>pimeloyl-CoA 	16.28852998	15.82848122	21.8977302	30.47351483
+Benzoyl-CoA degradation, benzoyl-CoA => 3-hydroxypimeloyl-CoA 	290.868972	210.8875076	115.3198996	71.43997888
+Biphenyl degradation, biphenyl => 2-oxopent-4-enoate + benzoate 	1.942122013	2.147035432	1.542402682	1.122894011
+Carbazole degradation, carbazole => 2-oxopent-4-enoate + anthranilate 	0.088517257	0.091768882	0.08956319	0.031906811
+Trans-cinnamate degradation, trans-cinnamate => acetyl-CoA 	131.9276737	157.5928131	256.0828378	285.2357694
+Purine degradation, xanthine => urea 	476.0912128	599.8728629	1054.096284	1064.30053
+Benzene degradation, benzene => catechol 	51.76510026	74.54104858	96.03877247	65.83369475
+Nucleotide sugar biosynthesis, glucose => UDP-glucose 	1015.354503	1077.512292	973.344652	963.7821191
+Ascorbate degradation, ascorbate => D-xylulose-5P 	556.575724	550.6301561	352.2235506	418.2795854
+Benzoate degradation, benzoate => catechol / methylbenzoate => methylcatechol 	84.8104704	122.1691029	199.051823	133.6694638
+D-galactonate degradation, De Ley-Doudoroff pathway, D-galactonate => glycerate-3P 	823.5927449	883.9248131	849.557797	822.9432125
+Nucleotide sugar biosynthesis, galactose => UDP-galactose 	275.9960042	257.0285942	159.8061146	177.569089
+Betaine biosynthesis, choline => betaine 	181.040434	261.3569074	468.9757777	404.2312338
+Methanogenesis, methylamine/dimethylamine/trimethylamine => methane 	3736.594399	2890.465254	1664.748054	1259.811145
+Trehalose biosynthesis, D-glucose 1P => trehalose 	869.7782523	864.3486429	848.9098997	849.5835506
+Methanogenesis, CO2 => methane 	4066.740297	3211.629553	1958.751461	1574.533972
+Catechol ortho-cleavage, catechol => 3-oxoadipate 	288.3049839	308.920359	476.3249278	455.5872992
+Catechol meta-cleavage, catechol => acetyl-CoA / 4-methylcatechol => propanoyl-CoA 	255.4341956	299.585691	450.2942543	413.7249323
+Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine 	1939.084366	2073.975387	2076.77895	2017.137979
+Pimeloyl-ACP biosynthesis, BioC-BioH pathway, malonyl-ACP => pimeloyl-ACP 	2291.34814	2422.133765	2865.934179	2657.186431
+Biotin biosynthesis, BioI pathway, long-chain-acyl-ACP => pimeloyl-ACP => biotin 	437.9812229	474.1043742	560.2822834	565.6727938
+Biotin biosynthesis, BioW pathway, pimelate => pimeloyl-CoA => biotin 	512.0373582	562.9563932	706.8192906	707.6464396
+Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate 	565.0934476	587.4195124	472.1278036	451.0957175
+Pentose phosphate pathway, archaea, fructose 6P => ribose 5P 	165.8316364	150.1611353	223.3550464	207.8769754
+Thiosulfate oxidation by SOX complex, thiosulfate => sulfate 	197.1096687	242.9783802	393.8551072	396.0652564
+Dissimilatory sulfate reduction, sulfate => H2S 	556.2951997	475.6468818	302.9576538	204.7505431
+Anoxygenic photosystem II 	0.688016524	0.706318737	3.334131578	2.725543606
+Anoxygenic photosystem I 	0.1253714	0.131976483	0.047569803	0.013557362
+2-Oxocarboxylic acid chain extension, 2-oxoglutarate => 2-oxoadipate => 2-oxopimelate => 2-oxosuberate 	73.61521526	65.12932629	43.67231956	58.83275058
+Cysteine biosynthesis, methionine => cysteine 	488.8382192	488.7476075	417.9081076	491.8489944
+Incomplete reductive citrate cycle, acetyl-CoA => oxoglutarate 	3223.019953	2922.026181	1989.356978	2081.472338
+Nicotinate degradation, nicotinate => fumarate 	32.34050228	67.20585471	259.6751807	362.6628072
+Phthalate degradation, phthalate => protocatechuate 	7.824417482	11.9100611	11.030735	7.542214374
+D-Galacturonate degradation (fungi), D-galacturonate => glycerol 	0.255089488	0.262199696	0.286781847	0.091949212
+D-Galacturonate degradation (bacteria), D-galacturonate => pyruvate + D-glyceraldehyde 3P 	269.1496336	326.1801177	472.452491	510.1345452
+Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P 	1174.462454	1168.487337	987.027062	1026.636607
+Semi-phosphorylative Entner-Doudoroff pathway, gluconate/galactonate => glycerate-3P 	29.71235614	37.01400757	46.17182388	36.64834445
+Anthranilate degradation, anthranilate => catechol 	2.080164306	2.966132639	3.246709841	4.280651307
+Salicylate degradation, salicylate => gentisate 	7.843850052	10.32407763	60.28287513	87.21186033
+Cephamycin C biosynthesis, aminoadipate + cycteine + valine => cephamycin C 	1.191283326	1.673427775	20.91488658	32.88515863
+Nocardicin A biosynthesis, L-pHPG + arginine + serine => nocardicin A 	0.562948165	3.578728153	29.05570504	42.71910935
+Methylaspartate cycle 	1053.4511	1039.673306	1059.760408	1085.222474
+Propanoyl-CoA metabolism, propanoyl-CoA => succinyl-CoA 	553.8874186	524.4638167	429.2777969	459.4024678
+Ornithine biosynthesis, mediated by LysW, glutamate => ornithine 	1.817983555	0.378142774	0.078192863	0.064828838
+Type II polyketide backbone biosynthesis, acyl-CoA + malonyl-CoA => polyketide 	101.0584145	119.0567696	217.3405214	218.271128
+Dihydrokalafungin biosynthesis, octaketide => dihydrokalafungin 	0.806728814	1.217160999	4.162621831	2.317862669
+Nogalavinone/aklavinone biosynthesis, deoxynogalonate/deoxyaklanonate => nogalavinone/aklavinone 	248.9423289	183.2151786	106.0541867	69.81179968
+Tetracenomycin C/8-demethyltetracenomycin C biosynthesis, tetracenomycin F2 => tetracenomycin C/8-demethyltetracenomycin C 	79.44121298	71.33338054	32.06780743	37.69192137
+Bacilysin biosynthesis, prephenate => bacilysin 	9.195772721	12.56445661	58.03037346	47.03133998
+Rebeccamycin biosynthesis, tryptophan => rebeccamycin 	3.606945299	4.970822199	30.76026093	77.92745116
+Pyrrolnitrin biosynthesis, tryptophan => pyrrolnitrin 	3.968163493	5.422817106	30.99335391	78.8147753
+dTDP-L-rhamnose biosynthesis 	1041.901115	951.6233362	969.4645244	1005.294327
+dTDP-D-mycaminose biosynthesis 	0	0	0	0.401321379
+dTDP-D-desosamine biosynthesis 	94.93653909	109.9088653	148.1451761	114.6768687
+dTDP-L-mycarose biosynthesis 	2.78266392	3.69659928	2.595422622	4.051434844
+dTDP-L-oleandrose biosynthesis 	2.365743803	3.719199301	2.58036987	3.8864918
+dTDP-L-megosamine biosynthesis 	2.131155578	3.232787952	0.760608695	1.525286938
+dTDP-L-olivose biosynthesis 	3.045946347	4.800886578	0.844522987	2.534872578
+dTDP-D-forosamine biosynthesis 	3.045946347	4.800886578	0.844522987	2.534872578
+dTDP-D-angolosamine biosynthesis 	2.131155578	3.232787952	0.760608695	1.525286938
+Complete nitrification, comammox, ammonia => nitrite => nitrate 	220.1382011	228.3425321	241.2411625	175.3550006
+Violacein biosynthesis, tryptophan => violacein 	0.017308493	0.132511821	3.191746471	1.506717486
+Nicotine degradation, pyrrolidine pathway, nicotine => succinate semialdehyde 	0.56086917	0.831486166	0.559653263	0.180677439
+Acarbose biosynthesis, sedoheptulopyranose-7P => acarbose 	3.736067727	3.287414209	1.274870709	6.399074676
+Validamycin A biosynthesis, sedoheptulopyranose-7P => validamycin A 	0.798110592	0.655940137	0.430008623	0.181369163
+Chlortetracycline biosynthesis, pretetramide => chlortetracycline 	0	0	0	0.82363886
+9-membered enediyne core biosynthesis, malonyl-CoA => 3-hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-ACP => 9-membered enediyne core 	89.96348128	84.59022412	115.6445209	97.20606211
+10-membered enediyne core biosynthesis, malonyl-CoA => 3-hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-ACP => 10-membered enediyne core 	70.39909207	49.87646392	29.58493228	16.48498921
+C-1027 beta-amino acid moiety biosynthesis, tyrosine => 3-chloro-4,5-dihydroxy-beta-phenylalanyl-PCP 	0.000763787	0.001461866	0.002898044	1.580024603
+Maduropeptin beta-hydroxy acid moiety biosynthesis, tyrosine => 3-(4-hydroxyphenyl)-3-oxopropanoyl-PCP 	0.000763787	0.001461866	0.002898044	1.580024603
+Neocarzinostatin naphthoate moiety biosynthesis, malonyl-CoA => 2-hydroxy-5-methyl-1-naphthoate => 2-hydroxy-7-methoxy-5-methyl-1-naphthoyl-CoA 	19.06363392	25.62295319	45.12897843	32.35711645
+Kedarcidin 2-aza-3-chloro-beta-tyrosine moiety biosynthesis, azatyrosine => 2-aza-3-chloro-beta-tyrosyl-PCP 	0.000763787	0.001461866	0.002898044	1.580024603
+Pyocyanine biosynthesis, chorismate => pyocyanine 	183.4371322	206.7807712	247.8846638	272.2190385
+Coenzyme F430 biosynthesis, sirohydrochlorin => coenzyme F430 	102.9797934	94.01379392	72.94637895	82.93761556
+Prodigiosin biosynthesis, L-proline => prodigiosin 	18.049572	13.0725398	2.479211473	1.762033909
+Undecylprodigiosin biosynthesis, L-proline => undecylprodigiosin 	18.049572	13.0725398	2.479211473	1.762033909
+Tetrahydrofolate biosynthesis, mediated by ribA and trpF, GTP => THF 	422.0204231	460.3018526	584.5862506	552.5111858
+Tetrahydrofolate biosynthesis, mediated by PTPS, GTP => THF 	325.045697	362.7055393	385.5857833	386.055723
+Tetrahydrobiopterin biosynthesis, GTP => BH4 	310.8057008	353.7585267	413.7891857	375.1563536
+L-threo-Tetrahydrobiopterin biosynthesis, GTP => L-threo-BH4 	310.8623063	353.7720694	414.068398	375.7668365
+Arginine biosynthesis, ornithine => arginine 	950.5604527	966.4798619	862.6581127	876.9233641
+Arginine biosynthesis, glutamate => acetylcitrulline => arginine 	1123.290522	1188.547211	1190.338924	1199.600626
+Siroheme biosynthesis, glutamyl-tRNA => siroheme 	1310.161065	1373.487934	1526.413617	1374.569848
+Heme biosynthesis, archaea, siroheme => heme 	534.0389317	487.737676	476.7080222	350.5361284
+Aurachin biosynthesis, anthranilate => aurachin A 	636.344348	619.8842801	559.8757477	580.8635863
+C5 isoprenoid biosynthesis, mevalonate pathway, archaea 	1159.983356	1033.266192	988.6519021	911.9333161
+Glycogen biosynthesis, glucose-1P => glycogen/starch 	976.1420598	962.3426404	831.9488365	863.6037305
+Glycogen degradation, glycogen => glucose-6P 	1009.994795	1049.560883	989.907011	898.7920754
+beta-Oxidation, peroxisome, VLCFA 	15.71025829	11.56173874	3.944780116	2.614728487
+beta-Oxidation, peroxisome, tri/dihydroxycholestanoyl-CoA => choloyl/chenodeoxycholoyl-CoA 	14.89628612	9.938827965	2.133831632	1.656097098
+KDO2-lipid A biosynthesis, Raetz pathway, non-LpxL-LpxM type 	1316.092218	1374.128255	1689.570075	1492.630133
+KDO2-lipid A modification pathway 	158.9906373	166.5224589	289.1351089	271.8887313
+Heme biosynthesis, animals and fungi, glycine => heme 	1055.840016	1108.671971	1306.66771	1193.466693
+O-glycan biosynthesis, mannose type (core M3) 	6.429001821	3.225656209	7.106222796	11.02650431
+Fatty acid biosynthesis in mitochondria, animals 	701.8000301	742.7240388	710.8724266	631.245654
+Fatty acid biosynthesis in mitochondria, fungi 	1805.22804	1841.988619	2074.535541	1900.327096
+Staphyloferrin B biosynthesis, L-serine => staphyloferrin B 	17.75284523	16.87060285	7.531721457	26.16251474
+Staphyloferrin A biosynthesis, L-ornithine => staphyloferrin A 	58.77746504	49.74344147	13.17330651	49.98284846
+Kanosamine biosynthesis glucose 6-phosphate => kanosamine 	7.724436957	13.53853029	19.3977824	14.64666292
+Phenylacetate degradation, phenylaxetate => acetyl-CoA/succinyl-CoA 	1816.89199	1807.598092	2017.196797	1991.452612
+Arginine succinyltransferase pathway, arginine => glutamate 	124.9648027	169.0050151	324.4404407	249.1191464
+Molybdenum cofactor biosynthesis, GTP => molybdenum cofactor 	1330.128793	1316.553928	1235.479896	1155.924138
+Lipoic acid biosynthesis, plants and bacteria, octanoyl-ACP => dihydrolipoyl-E2/H 	359.7325417	379.1788199	425.9610851	359.970038
+Lipoic acid biosynthesis, eukaryotes, octanoyl-ACP => dihydrolipoyl-H 	239.1541073	243.027518	243.9231493	204.9417594
+Lipoic acid biosynthesis, animals and bacteria, octanoyl-ACP => dihydrolipoyl-H => dihydrolipoyl-E2 	264.6868064	272.3217805	298.9129639	250.6001692
+Lipoic acid biosynthesis, octanoyl-CoA => dihydrolipoyl-E2 	239.1541073	243.027518	243.9231493	204.9417594
+Puromycin biosynthesis, ATP => puromycin 	951.3220078	962.6810586	914.7091652	939.0140655
+Thiamine biosynthesis, prokaryotes, AIR (+ DXP/glycine) => TMP/TPP 	343.2486168	330.4909527	300.4594168	324.5201753
+Thiamine biosynthesis, archaea, AIR (+ NAD+) => TMP/TPP 	50.70409208	39.49080228	21.71066023	21.68609495
+Thiamine biosynthesis, plants, AIR (+ NAD+) => TMP/thiamine/TPP 	0.070655739	0.721242909	1.537048278	0.967801942
+Thiamine biosynthesis, pyridoxal-5P => TMP/thiamine/TPP 	0.070655739	0.721242909	1.537048278	0.967801942
+Thiamine salvage pathway, HMP/HET => TMP 	111.5013741	99.69469521	86.06641783	79.84423746
+Fosfomycin biosynthesis, phosphoenolpyruvate => fosfomycin 	4.153290589	6.126503639	6.651878707	4.645977652
+UDP-N-acetyl-D-glucosamine biosynthesis, prokaryotes, glucose => UDP-GlcNAc 	1520.379245	1526.612722	1419.434647	1425.815959
+Riboflavin biosynthesis, fungi, GTP => riboflavin/FMN/FAD 	68.88048656	86.46735378	141.3228952	142.8485343
+NAD biosynthesis, tryptophan => quinolinate => NAD 	1148.194422	1155.664454	1134.089225	1182.234834
+Pantothenate biosynthesis, 2-oxoisovalerate/spermine => pantothenate 	508.5385058	503.8019765	496.9387588	473.4330887
+Coenzyme A biosynthesis, archaea, 2-oxoisovalerate => 4-phosphopantoate => CoA 	855.1186887	826.9582761	812.2560528	769.6265375
+Caffeine degradation, caffeine => xanthine 	0.238968653	0.345424812	6.421292688	3.44493243
+Pyridoxal-P biosynthesis, R5P + glyceraldehyde-3P + glutamine => pyridoxal-P 	75.79338296	65.15797239	44.07480478	49.95981969
+Phytosterol biosynthesis, squalene 2,3-epoxide => campesterol/sitosterol 	0.459706875	0.716760866	2.726660881	1.502166574
+Aerobactin biosynthesis, lysine => aerobactin 	14.22494809	17.07628073	44.28327378	42.58007078
+Ectoine degradation, ectoine => aspartate 	48.07061894	73.649091	105.7065998	87.78002083
+Cyclooctatin biosynthesis, dimethylallyl-PP + isopentenyl-PP => cyclooctatin 	29.20385766	18.76776342	13.69702625	14.506589
+CMP-Neu5Ac biosynthesis 	61.80952535	66.49189968	35.25433802	38.47558118
+UDP-L-FucNAm biosynthesis 	271.3261153	216.5628602	118.8878707	153.8276201
+Cobalamin biosynthesis, anaerobic, uroporphyrinogen III => sirohydrochlorin => cobyrinate a,c-diamide 	1769.422687	1752.943931	1412.67574	1301.757086
+Cobalamin biosynthesis, aerobic, uroporphyrinogen III => precorrin 2 => cobyrinate a,c-diamide 	1188.029565	1197.741804	1063.3725	1055.142909
+Heme biosynthesis, bacteria, glutamyl-tRNA => coproporphyrin III => heme 	1442.355963	1472.732698	1604.039464	1472.780078
+Menaquinone biosynthesis, futalosine pathway 	352.1528495	308.5545508	128.374094	132.1375346
+Menaquinone biosynthesis, modified futalosine pathway 	295.1390962	255.236473	98.85195629	106.7400951
+Phylloquinone biosynthesis, chorismate (+ phytyl-PP) => phylloquinol 	60.91805419	106.4406783	174.2722259	177.071204
+Plastoquinone biosynthesis, homogentisate + solanesyl-PP => plastoquinol 	0.181403084	0.245082542	0.105269356	0
+Methanofuran biosynthesis 	138.4458238	126.3453523	96.77778692	89.55890848
+Melatonin biosynthesis, plants, tryptophan => serotonin => melatonin 	68.2650756	56.90164232	44.04766344	30.67515057
